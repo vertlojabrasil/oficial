@@ -1,0 +1,1 @@
+var cl_localized_vars={"ajaxurl":"https:\/\/vertbrasil.com.br\/wp-admin\/admin-ajax.php","security":"8112f3f4f8","gdpr_nonce":"4c898e1b89","gdpr":"1","gdpr_messages":"Your email address will help us support your shopping experience throughout the site. Please check our Privacy Policy to see how we use your personal data.","no_thanks":"No thanks"}

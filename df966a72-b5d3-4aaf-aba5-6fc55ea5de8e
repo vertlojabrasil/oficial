@@ -1,0 +1,1 @@
+fbq('init','556493703396009',{},{"agent":"woocommerce-9.0.2-3.2.9"});fbq('track','PageView',{"source":"woocommerce","version":"9.0.2","pluginVersion":"3.2.9"});document.addEventListener('DOMContentLiteSpeedLoaded',function(){document.body.insertAdjacentHTML('beforeend','<div class=\"wc-facebook-pixel-event-placeholder\"></div>')},!1)

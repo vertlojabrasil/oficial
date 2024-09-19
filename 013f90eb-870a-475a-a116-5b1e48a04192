@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){var messages=$(".woocommerce-discount-message");if(messages.length>0){messages.remove()}})
