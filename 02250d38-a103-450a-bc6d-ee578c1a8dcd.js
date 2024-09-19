@@ -1,0 +1,1 @@
+var nasa_ajax_params={"ajax_url":"https:\/\/vertbrasil.com.br\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"}

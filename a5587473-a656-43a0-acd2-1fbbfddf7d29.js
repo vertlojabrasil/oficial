@@ -1,0 +1,1 @@
+var nasa_countdown_l10n={"days":"Days","months":"Months","weeks":"Weeks","years":"Years","hours":"Hours","minutes":"Mins","seconds":"Secs","day":"Day","month":"Month","week":"Week","year":"Year","hour":"Hour","minute":"Min","second":"Sec"}
